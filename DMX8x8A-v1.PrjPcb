@@ -3,8 +3,8 @@ Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
 ReleasesFolder=
-ChannelDesignatorFormatString=$Component_$RoomName
-ChannelRoomLevelSeperator=_
+ChannelDesignatorFormatString=$Component:$RoomName
+ChannelRoomLevelSeperator=:
 OpenOutputs=1
 ArchiveProject=0
 TimestampOutput=0
@@ -72,23 +72,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FKDOLNRX
 
 [Document3]
-DocumentPath=DMX512.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FISXJPVG
-
-[Document4]
 DocumentPath=DMX512.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DBAREMFP
 
-[Document5]
+[Document4]
 DocumentPath=IOs.DMX8x8A.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,8 +105,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JHHGDVCF
 
-[Document6]
+[Document5]
 DocumentPath=DMX8x8A-v1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document6]
+DocumentPath=DMX512.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
