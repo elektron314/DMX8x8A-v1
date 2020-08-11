@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for DMX8x8A-v1
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -139,8 +139,93 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FISXJPVG
 
+[Document7]
+DocumentPath=DMX8x8A-v1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for DMX8x8A-v1\Design Rule Check - DMX8x8A-v1.html
+DocumentPath=Project Outputs for DMX8x8A-v1\NC Drill\DMX8x8A-v1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for DMX8x8A-v1\Gerber\DMX8x8A-v1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for DMX8x8A-v1\Gerber\DMX8x8A-v1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for DMX8x8A-v1\Gerber\DMX8x8A-v1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for DMX8x8A-v1\Gerber\DMX8x8A-v1.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for DMX8x8A-v1\Gerber\DMX8x8A-v1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for DMX8x8A-v1\Gerber\DMX8x8A-v1.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for DMX8x8A-v1\Gerber\DMX8x8A-v1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for DMX8x8A-v1\Gerber\DMX8x8A-v1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for DMX8x8A-v1\Gerber\DMX8x8A-v1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for DMX8x8A-v1\Gerber\DMX8x8A-v1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for DMX8x8A-v1\NC Drill\DMX8x8A-v1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for DMX8x8A-v1\Gerber\DMX8x8A-v1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for DMX8x8A-v1\Gerber\DMX8x8A-v1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for DMX8x8A-v1\NC Drill\DMX8x8A-v1.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for DMX8x8A-v1\Report Board Stack\DMX8x8A-v1.xls
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for DMX8x8A-v1\BOM\Ordering BOM-DMX8x8A-v1.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for DMX8x8A-v1\Pick Place\Pick Place for DMX8x8A-v1.csv
 DItemRevisionGUID=
 
 [Configuration1]
@@ -190,7 +275,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for DMX8x8A-v1
 
 [OutputGroup1]
 Name=Netlist Outputs
