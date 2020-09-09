@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for DMX8x8A-v1
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -106,23 +106,6 @@ GenerateClassCluster=0
 DocumentUniqueId=JHHGDVCF
 
 [Document5]
-DocumentPath=DMX8x8A-v1.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=DMX512.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +122,58 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FISXJPVG
 
+[Document6]
+DocumentPath=Assembly.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Document7]
+DocumentPath=Etc.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document8]
+DocumentPath=Fab.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
 DocumentPath=DMX8x8A-v1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +191,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for DMX8x8A-v1\DMX8x8A-v1.csv
+DocumentPath=Project Outputs for DMX8x8A-v1\Assembly\Assembly BOM.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
@@ -225,15 +259,83 @@ DocumentPath=Project Outputs for DMX8x8A-v1\Report Board Stack\DMX8x8A-v1.xls
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for DMX8x8A-v1\BOM\Ordering BOM-DMX8x8A-v1.csv
+DocumentPath=Project Outputs for DMX8x8A-v1\Fabrication\Gerber Files.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for DMX8x8A-v1\BOM\Ordering BOM-DMX8x8A-v1.xlsx
+DocumentPath=Project Outputs for DMX8x8A-v1\Fabrication\Gerber Files.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument20]
+DocumentPath=Project Outputs for DMX8x8A-v1\Fabrication\Gerber Files.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for DMX8x8A-v1\Fabrication\Gerber Files.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for DMX8x8A-v1\Fabrication\Gerber Files.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for DMX8x8A-v1\Fabrication\Gerber Files.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for DMX8x8A-v1\Fabrication\Gerber Files.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for DMX8x8A-v1\Fabrication\Gerber Files.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for DMX8x8A-v1\Fabrication\Gerber Files.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for DMX8x8A-v1\Fabrication\Gerber Files.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for DMX8x8A-v1\Fabrication\Gerber Files.REP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for DMX8x8A-v1\Fabrication\Gerber Files.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for DMX8x8A-v1\Fabrication\NC Drill Files.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for DMX8x8A-v1\Fabrication\NC Drill Files.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for DMX8x8A-v1\Fabrication\NC Drill Files.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for DMX8x8A-v1\BOM\Ordering BOM-DMX8x8A-v1.csv
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for DMX8x8A-v1\Etc\Ordering BOM.csv
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for DMX8x8A-v1\Assembly\Pick and place.csv
+DItemRevisionGUID=
+
+[GeneratedDocument36]
 DocumentPath=Project Outputs for DMX8x8A-v1\Pick Place\Pick Place for DMX8x8A-v1.csv
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for DMX8x8A-v1\Fabrication\Report Board Stack.xls
 DItemRevisionGUID=
 
 [Configuration1]
@@ -283,7 +385,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for DMX8x8A-v1
 
 [OutputGroup1]
 Name=Netlist Outputs

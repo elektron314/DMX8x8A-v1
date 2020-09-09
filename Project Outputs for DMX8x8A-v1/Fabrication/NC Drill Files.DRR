@@ -1,0 +1,35 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DMX8x8A-v1.PcbDoc   9/10/2020  12:49:03 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : NC Drill Files.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             1262      PTH        0.00mm (0.00inch)
+T2      0.78mm (31mil)                                            Round             4         PTH        0.00mm (0.00inch)
+T3      0.8mm (31mil)                                             Round             35        PTH        0.00mm (0.00inch)
+T4      0.889mm (35mil)                                           Round             28        PTH        0.00mm (0.00inch)
+T5      0.9mm (35mil)                                             Round             6         PTH        0.00mm (0.00inch)
+T6      1mm (39mil)                                               Round             22        PTH        0.00mm (0.00inch)
+T7      1.01mm (40mil)                                            Round             32        PTH        0.00mm (0.00inch)
+T8      1.1mm (43mil)                                             Round             29        PTH        0.00mm (0.00inch)
+T9      1.3mm (51mil)                                             Round             18        PTH        0.00mm (0.00inch)
+T10     3.2mm (126mil)                                            Round             12        PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1448
+
+Two holes at same point : 9
+-----------------------
+3767,5944
+3667,5944
+3567,5944
+3126,5944
+3226,5944
+3326,5944
+2886,5944
+2786,5944
+2686,5944
+
+Total Processing Time (hh:mm:ss) : 00:00:01
