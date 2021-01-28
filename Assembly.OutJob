@@ -18,7 +18,7 @@ RevisionNamingSchemeGUID=
 Name=Assembly.OutJob
 Description=
 TargetOutputMedium=Folder Structure
-VariantName=[No Variations]
+VariantName=First assembly
 VariantScope=1
 CurrentConfigurationName=
 TargetPrinter=Adobe PDF
@@ -83,15 +83,15 @@ PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration2_Name1=ColumnNameFormat
 Configuration2_Item1=CaptionAsName
 Configuration2_Name2=General
-Configuration2_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=True|Database=True|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1690|FormHeight=872|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration2_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=True|Database=True|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1868|FormHeight=872|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration2_Name3=GroupOrder
-Configuration2_Item3=Value=True|Comment=True|Footprint=True|Layer=True|DNP=True|Description=True|SMD/TH=True|Note=True
+Configuration2_Item3=Value=True|Comment=True|Footprint=True|Layer=True|DNP=True|Description=True|SMD/TH=True|Note=True|Fitted=True
 Configuration2_Name4=SortOrder
-Configuration2_Item4=DNP=Up
+Configuration2_Item4=Layer=Up
 Configuration2_Name5=VisibleOrder
-Configuration2_Item5=DNP=100|SMD/TH=100|Layer=100|Designator=141|Comment=169|Value=100|Description=100|Footprint=100|Pins=43|Quantity=49|Note=100
+Configuration2_Item5=Layer=61|Fitted=73|DNP=58|Designator=142|Comment=136|Value=75|Description=254|Footprint=208|Pins=43|Quantity=85|Note=100
 Configuration2_Name6=VisibleOrder_Flat
-Configuration2_Item6=DNP=100|SMD/TH=100|Layer=100|Designator=141|Comment=169|Value=100|Description=100|Footprint=100|Pins=43|Quantity=49|Note=100
+Configuration2_Item6=Layer=61|Fitted=73|DNP=58|Designator=142|Comment=136|Value=75|Description=254|Footprint=208|Pins=43|Quantity=85|Note=100
 OutputType3=Pick Place
 OutputName3=Pick and place
 OutputCategory3=Assembly
@@ -109,7 +109,7 @@ Configuration3_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|Ge
 [PublishSettings]
 OutputFilePath2=C:\Users\EL314\Desktop\_work\Apstec\devices\APSPCB.026 RFDAQ\APSPCB.026.v1 RFDAQ (r0.0)\Project Outputs for APSPCB.026.v1 RFDAQ (r0.0)\Assembly\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for APSPCB.026.v1 RFDAQ (r0.0)
+OutputBasePath2=Project Outputs for DMX8x8A-v1
 OutputPathMedia2=Assembly
 OutputPathMediaValue2=Assembly
 OutputPathOutputer2=
@@ -136,7 +136,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=C:\Users\EL314\Desktop\_work\Apstec\devices\APSPCB.026 RFDAQ\APSPCB.026.v1 RFDAQ (r0.0)\Project Outputs for APSPCB.026.v1 RFDAQ (r0.0)\Assembly\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for APSPCB.026.v1 RFDAQ (r0.0)
+OutputBasePath3=Project Outputs for DMX8x8A-v1
 OutputPathMedia3=Assembly
 OutputPathMediaValue3=Assembly
 OutputPathOutputer3=
@@ -149,7 +149,7 @@ OutputFileNameSpecial3=
 OpenOutput3=0
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for APSPCB.026.v1 RFDAQ (r0.0)
+OutputBasePath4=Project Outputs for DMX8x8A-v1
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
