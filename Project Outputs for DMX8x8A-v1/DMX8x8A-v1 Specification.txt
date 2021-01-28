@@ -1,0 +1,24 @@
+PCB Specification: DMX8x8A-v1
+
+Layout and drill data:		Fabrication
+Gerber File Extension Report: 	Fabrication\Gerber Files.EXTREP
+Assembly information: 		Assembly\
+Bill of Materials:		Etc\Ordering BOM.csv
+PCB description:		Double-sided Layer, plated through (PTH) holes
+Number of layers:		2 layers
+Layer stack-up designed in CAD:	Fabrication\Report Board Stack.xls
+Final PCB thickness designed in CAD:	1.619mm +/-10% (Incl. copper, solder mask and silk screen)
+Board size:			146.5 x 143.2 mm
+Drill info:			NC Drill Files.LDP
+Smallest hole:			0.3 mm
+Min. annular ring:		0.15 mm
+Plating through holes:		yes
+Conductor width:		Min 0.2 mm
+Conductor spacing:		Min 0.2 mm
+Silk screen:			TOP&BOT side, white
+Solder mask type:		According to IPC-SM-840, Class H
+Base Material:			FR-4
+Surface finish:			HASL
+Teardrops:			allowed
+Test and inspection:		Final PCB must comply with IPC-600, rev.G
+PCB marking:			Manufacturers ID, production code (year and week) and UL recognition marks must be placed on each board.

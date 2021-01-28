@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:25:40 PM On 10/26/2020
+
+Output: Ordering BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [DMX8x8A-v1.PrjPcb]
+   Generated File[Ordering BOM.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:25:40 PM On 10/26/2020
