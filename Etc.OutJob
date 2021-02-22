@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=Etc.OutJob
 Description=
 TargetOutputMedium=PDF
 VariantName=[No Variations]
@@ -66,21 +66,21 @@ OutputDocumentPath3=
 OutputVariantName3=
 OutputEnabled3=1
 OutputEnabled3_OutputMedium1=0
-OutputEnabled3_OutputMedium2=3
+OutputEnabled3_OutputMedium2=2
 OutputEnabled3_OutputMedium3=0
 OutputEnabled3_OutputMedium4=0
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.12|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration3_Name1=OutputConfigurationParameter1
-Configuration3_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
+Configuration3_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=All SCH Documents
 OutputType4=PCB 3D Print
 OutputName4=PCB 3D Print
 OutputCategory4=Documentation
 OutputDocumentPath4=
 OutputVariantName4=
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
-OutputEnabled4_OutputMedium2=2
+OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=0
 OutputEnabled4_OutputMedium4=0
 OutputDefault4=0
@@ -117,7 +117,7 @@ Configuration5_Name8=VisibleOrder_Flat
 Configuration5_Item8=Designator=120|DNP=100|Comment=209|Value=100|Description=127|Footprint=167|Quantity=56|Note=70
 
 [PublishSettings]
-OutputFilePath2=C:\Users\EL314\Desktop\_work\DMX512\DMX8x8A-v1\Project Outputs for DMX8x8A-v1\Assembly\
+OutputFilePath2=C:\_Work\DMX\Project Outputs for DMX8x8A-v1\Etc\
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for DMX8x8A-v1
 OutputPathMedia2=Etc
@@ -126,7 +126,7 @@ OutputPathOutputer2=
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
 OutputFileName2=Etc.PDF
-OutputFileNameMulti2==OutputName
+OutputFileNameMulti2==ProjectName+' '+OutputName
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2==3
 OpenOutput2=0
@@ -196,7 +196,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\EL314\Desktop\_work\DMX512\DMX8x8A-v1\Project Outputs for DMX8x8A-v1\Assembly\
+RelativeOutputPath2=C:\_Work\DMX\Project Outputs for DMX8x8A-v1\Etc\
 OpenOutputs2=0
 RelativeOutputPath3=C:\Users\EL314\Desktop\_work\DMX512\DMX8x8A-v1\Project Outputs for DMX8x8A-v1\Etc\
 OpenOutputs3=0
